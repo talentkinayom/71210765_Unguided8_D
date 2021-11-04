@@ -1,0 +1,9 @@
+m=bilangan bulat positif
+if mencari nilai m!
+	tampilkan "m*(m-1)*(m-2)*...*1"
+
+contoh:
+m=5
+m=bilangan bulat positif
+if mencari nilai 5!
+	tampilkan "5*(5-1)*(5-2)*...*1"
