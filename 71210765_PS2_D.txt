@@ -1,0 +1,3 @@
+Gelas yang terisi lebih dari dahulu adalah gelas 4.
+Penjelasan:
+air dituangkan ke dalam kotak dan ada dua jalur. Air akan mengalir ke jalur kanan terlebih dahulu lalu masuk kedalam kotak tetapi air tidak dapat mengalir ke gelas 1, 2, dan 3 karena jalur tertutup. Maka air akan naik dan mengalir menuju jalur yang kiri lalu masuk ke dalam kotak. Di dalam kotak ada tiga jalur (kanan, bawah, dan kiri) air akan mengalir ke bawah tetapi tidak akan mengalir ke gelas 6 karena jalur tertutup, begitu juga dengan jalur yang kanan air tidak akan masuk ke gelas 7 karena tertutup. Air naik lalu masuk jalur kiri. Karena jalur menuju gelas 5 tertutup, maka air akan mengalir dan terisi penuh ke gelas 4.
